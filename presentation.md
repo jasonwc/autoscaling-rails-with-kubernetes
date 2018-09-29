@@ -1,18 +1,18 @@
 # Scaling __Fisher Price__ Architecture with __Kubernetes__
-![](fisher_price_rock_a_stack.jpg)
-![](kubernetes_logo_only.png)
+![](assets/fisher_price_rock_a_stack.jpg)
+![](assets/kubernetes_logo_only.png)
 
 ---
 
-![](mavenlink_logo.png)
-![](me.jpg)
+![](assets/mavenlink_logo.png)
+![](assets/me.jpg)
 
 # Jason Carter
 ## Senior Software Engineer
 
 ---
 
-![autoplay mute loop](mavenlink_vid.mp4)
+![autoplay mute loop](assets/mavenlink_vid.mp4)
 
 #[fit] mavenlink.com/engineering
 
@@ -26,11 +26,11 @@
 
 ---
 
-![inline](advanced.png)
+![inline](assets/advanced.png)
 
 ---
 
-![](heroku.jpg)
+![](assets/heroku.jpg)
 
 ---
 
@@ -49,8 +49,8 @@
 
 ---
 
-![](heroku.jpg)
-![fit](kubernetes_logo_only.png)
+![](assets/heroku.jpg)
+![fit](assets/kubernetes_logo_only.png)
 
 ---
 
@@ -70,33 +70,33 @@
 ---
 
 # What's the deal with Fisher Price?
-![fit](fisher_price_mega_bloks.jpeg)
+![fit](assets/fisher_price_mega_bloks.jpeg)
 
 ---
 
-![fit9](ass_backwards.png)
+![fit9](assets/ass_backwards.png)
 
 ---
 
-![inline](original_tweet.png)
+![inline](assets/original_tweet.png)
 
 <!-- Dare Obasanjo (@Carnage4Life) on Twitter, 19 Feb 2018, https://twitter.com/Carnage4Life/status/965737146609905665 -->
 
 ---
 
-![inline](learn_rudimentary_web_development.png)
+![inline](assets/learn_rudimentary_web_development.png)
 
 <!-- Michael Hartl (@mhartl) on Twitter, 19 Feb 2018, https://twitter.com/mhartl/status/965806386599813120 -->
 
 ---
 
-![inline](13b_dollar_company.png)
+![inline](assets/13b_dollar_company.png)
 
 <!-- David Heinemeier Hansson (@DHH) on Twitter, 19 Feb 2018, https://twitter.com/dhh/status/965782753491927040 -->
 
 ---
 
-![](shopify.png)
+![](assets/shopify.png)
 
 ---
 
@@ -108,7 +108,7 @@
 
 ---
 
-![fit](kubernetes_logo_only.png)
+![fit](assets/kubernetes_logo_only.png)
 
 ---
 
@@ -121,7 +121,7 @@
 ---
 
 # A disclaimer
-![](figuring_it_out.jpg)
+![](assets/figuring_it_out.jpg)
 
 ---
 
@@ -182,15 +182,15 @@
 
 ---
 
-![inline](simple.png)
+![inline](assets/simple.png)
 
 ---
 
-![inline](medium.png)
+![inline](assets/medium.png)
 
 ---
 
-![inline](complex.png)
+![inline](assets/complex.png)
 
 ---
 
@@ -245,7 +245,7 @@ A container image is a _lightweight_, __stand-alone__, _executable package_ of a
 
 ---
 
-![fit](./docker.png)
+![fit](assets/./docker.png)
 
 ---
 
@@ -265,7 +265,7 @@ Kubernetes is a portable, extensible open-source platform for managing container
 
 ---
 
-![inline](./cluster_diagram.png)
+![inline](assets/cluster_diagram.png)
 
 <sub>Kubernetes Architectural Overview (by Steve Watt, Red Hat).</sub>
 
@@ -273,7 +273,7 @@ Kubernetes is a portable, extensible open-source platform for managing container
 
 # Scheduling
 
-![inline](./pods.png)
+![inline](assets/pods.png)
 
 <sub>Unsourced :pensive:</sub>
 
@@ -295,7 +295,7 @@ Kubernetes is a portable, extensible open-source platform for managing container
 
 ---
 
-![fit](aws-azure-gcp.jpg)
+![fit](assets/aws-azure-gcp.jpg)
 
 ---
 
@@ -353,7 +353,7 @@ A pod (as in a pod of whales or pea pod) is a group of one or more containers (s
 
 ---
 
-![inline](deployment_and_pods.png)
+![inline](assets/deployment_and_pods.png)
 
 ---
 
@@ -414,7 +414,7 @@ A service allows other things to access your deployment with a predictable host.
 
 ---
 
-![inline](service.png)
+![inline](assets/service.png)
 
 ---
 
@@ -451,7 +451,7 @@ spec:
 
 ---
 
-![inline](accessing_external_resources.png)
+![inline](assets/accessing_external_resources.png)
 
 ---
 
@@ -464,7 +464,7 @@ Allows traffic to a given hostname, to route to the correct service
 
 ---
 
-![inline](ingress.png)
+![inline](assets/ingress.png)
 
 ---
 
@@ -521,7 +521,7 @@ spec:
 
 ---
 
-![inline](nodes.png)
+![inline](assets/nodes.png)
 
 ---
 
@@ -618,7 +618,7 @@ The Horizontal Pod Autoscaler automatically scales the number of pods in a repli
 
 ---
 
-![inline](hpa.png)
+![inline](assets/hpa.png)
 
 ---
 
@@ -670,12 +670,12 @@ spec:
 
 ---
 
-![fit](prometheus.png)
+![fit](assets/prometheus.png)
 
 ---
 
-![inline](worker_count.png)
-![inline](jobs_per_worker.png)
+![inline](assets/worker_count.png)
+![inline](assets/jobs_per_worker.png)
 
 ---
 
